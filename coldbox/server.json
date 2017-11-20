@@ -1,0 +1,10 @@
+{
+    "app":{
+        "cfengine":"adobe"
+    },
+    "web":{
+        "rewrites":{
+            "enable":true
+        }
+    }
+}
